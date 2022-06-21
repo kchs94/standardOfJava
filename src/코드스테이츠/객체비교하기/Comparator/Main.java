@@ -1,4 +1,4 @@
-package 정리.객체비교하기.Comparator;
+package 코드스테이츠.객체비교하기.Comparator;
 
 import java.util.Arrays;
 import java.util.Comparator;
