@@ -1,4 +1,4 @@
-package 코드스테이츠.람다;
+package 코드스테이츠.람다.함수형인터페이스;
 
 @FunctionalInterface
 public interface MyFunctionalInterface {
