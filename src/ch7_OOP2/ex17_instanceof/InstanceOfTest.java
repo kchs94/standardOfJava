@@ -5,7 +5,7 @@ public class InstanceOfTest {
         FireEngine fe = new FireEngine();
 
         if (fe instanceof FireEngine) {
-            System.out.println("fe는 FireEngine 인스턴스를 가리킵니다.");
+            System.out.println("This is a FireEngine instance");
         }
 
         if (fe instanceof Car) {
